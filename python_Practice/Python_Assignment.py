@@ -127,3 +127,4 @@ class Assignment:
             for multiply in range(1, 10):
                 print(number * multiply, end=' ')
             print('\n')
+
