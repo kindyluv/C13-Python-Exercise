@@ -136,3 +136,4 @@ dmypy.json
 .idea/modules.xml
 .idea
 .idea/vcs.xml
+.idea/.gitignore
