@@ -1,4 +1,4 @@
-from precious_Assignment.Heart_rate_test import MaxiHeart
+from godwin_assignment.Heart_rate_test import MaxiHeart
 
 if __name__ == '__main__':
     myHeart = MaxiHeart(45)
