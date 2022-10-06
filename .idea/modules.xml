@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonShoveInntProject.iml" filepath="$PROJECT_DIR$/.idea/pythonShoveInntProject.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonSimex13.iml" filepath="$PROJECT_DIR$/.idea/PythonSimex13.iml" />
+>>>>>>> 73247db4f248ce2890766d84db59c8f3c0c50fdc
     </modules>
   </component>
 </project>
