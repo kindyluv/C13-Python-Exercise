@@ -1,4 +1,4 @@
-from python.Class import cohortThirteen
+from David_python_project.Class import cohortThirteen
 
 if __name__ == '__main__':
     new_object = cohortThirteen("David", 90)

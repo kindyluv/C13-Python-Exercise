@@ -1,4 +1,4 @@
-from python.Account import account
+from David_python_project.Account import account
 
 if __name__ == '__main__':
     new_object = account("David", 300)
