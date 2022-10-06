@@ -1,6 +1,6 @@
 from os import name
 
-import say_your_name
+from Shove.practice import say_your_name
 
 if name == name:
     shola = input(say_your_name)

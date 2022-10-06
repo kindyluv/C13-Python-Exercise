@@ -1,5 +1,4 @@
-from _ast import In
-from practice.classes import FirstClass
+from Shove.practice.classes import FirstClass
 
 # In[2]: print("welcome to python")
 # In[4]: print("Python")
