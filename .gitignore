@@ -125,9 +125,6 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
-.pyre/
-
 # ignore folder
 .Phyton-exersises/
 .idea/misc.xml
