@@ -1,4 +1,4 @@
-from Practices.pascal import First_name
+from Nneka.pascal import First_name
 
 if __name__ == '__main__':
     papi = First_name("jude", 26)
