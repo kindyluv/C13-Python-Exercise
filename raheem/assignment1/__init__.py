@@ -1,4 +1,4 @@
-from raheem.assignment_class import AssignmentClass
+from raheem.assignment1.assignment_class import AssignmentClass
 
 if __name__ == '__main__':
     assignment = AssignmentClass()
