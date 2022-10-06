@@ -2,10 +2,13 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/Raphael/Dictionaries" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Raphael/FullPythonCourse" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Raphael/PythonProject" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Raphael/PythonUnitTest" isTestSource="false" />
+=======
+>>>>>>> bb105d3d7c2cbda5698b25797638af5724795d3a
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
