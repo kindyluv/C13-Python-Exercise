@@ -70,32 +70,28 @@ def fibonacci(num):
 
 
 def heart_rate():
-    age = int(input('Enter your age: '))
-    maximum_heart_rate = 220 - age
-    target_heart_rate = maximum_heart_rate / 2
-    target_heart_rate_2 = 85 * maximum_heart_rate / 100
-    print(f'Maximum heart rate: {maximum_heart_rate}bpm')
-    print(f'Target heart rate is {target_heart_rate}bpm to {target_heart_rate_2}bpm.')
+
+
 
 
  def turing_test():
-        problem = input('What is your problem? ')
-        history = input(f'Have you had this problem {problem} before? (yes or no)')
-        if history == 'yes':
-            print('Then you have this problem again.')
-        elif history == 'no':
-            print('Well, you have it now.')
-        elif history != 'yes' and history != 'no':
-            while history != 'yes' and history != 'no':
-                if history == 'yes' or history == 'no':
-                    break
-                else:
-                    print('Please, enter yes or no')
-                    history = input('Have you had this problem before?')
-                    if history == 'yes':
-                        print('Then you have this problem again.')
-                    elif history == 'no':
-                        print('Well, you have it now.')
+     problem = input('What is your problem? ')
+     history = input(f'Have you had this problem {problem} before? (yes or no)')
+     if history == 'yes':
+         print('Then you have this problem again.')
+     elif history == 'no':
+         print('Well, you have it now.')
+     elif history != 'yes' and history != 'no':
+         while history != 'yes' and history != 'no':
+             if history == 'yes' or history == 'no':
+                 break
+             else:
+                 print('Please, enter yes or no')
+                 history = input('Have you had this problem before?')
+                 if history == 'yes':
+                     print('Then you have this problem again.')
+                 elif history == 'no':
+                     print('Well, you have it now.')
 
 
 def flu():
@@ -150,4 +146,16 @@ def multiplication_table():
 
 
 if __name__ == '__main__':
-    fibonacci(int(input("enter number\n")))
+    egg_box()
+    multiplication_table()
+    extract(12)
+    palindrome(12321)
+    equilateral_triangle(2,6,8)
+    flu()
+    heart_rate()
+    fibonacci(12)
+    wage_calculator()
+    grade_print(89)
+    bacteria_growth()
+    egg_box()
+
